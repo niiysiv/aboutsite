@@ -15,7 +15,7 @@ document.getElementById("js-button1").onclick = function()
     }
     else
     {
-        alert('じゃーんねんでしたーー');
+      alert('じゃーんねんでしたーー')
     }
 }
 
@@ -36,3 +36,12 @@ function showElementAnimation() {
       }
     }
   }
+
+
+
+$(function()
+{
+
+  $('div').hide().fadeIn(1000)
+  $('p').hide().fadeIn(2000)
+})
