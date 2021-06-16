@@ -15,6 +15,7 @@ document.getElementById("js-button1").onclick = function()
     }
     else
     {
+        alert('じゃーんねんでしたーー');
     }
 }
 
