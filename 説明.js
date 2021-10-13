@@ -13,6 +13,11 @@ document.getElementById("js-button1").onclick = function()
       alert('チャンネル登録よろしく')
       location.href = "https://www.youtube.com/channel/UCZeSPZXaTEE-ucFkwoQmZvw"
     }
+    else if(pass === "tamoto")
+    [
+       alert('チャンネル登録よろしく')
+       location.href = "https://www.youtube.com/channel/UCZeSPZXaTEE-ucFkwoQmZvw"
+    ]
     else
     {
       alert('じゃーんねんでしたーー')
