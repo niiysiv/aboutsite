@@ -13,6 +13,15 @@ document.getElementById("js-button1").onclick = function()
       alert('チャンネル登録よろしく')
       location.href = "https://www.youtube.com/channel/UCZeSPZXaTEE-ucFkwoQmZvw"
     }
+    else if(pass === "tamoto")
+    {
+      alert('チャンネル登録よろしく')
+      location.href = "https://www.youtube.com/channel/UCZeSPZXaTEE-ucFkwoQmZvw"
+    }
+    else if(pass === "sin")
+    {
+        alert('シルバー雑魚すぎた裏闘技場'9
+    }
     else
     {
       alert('じゃーんねんでしたーー')
