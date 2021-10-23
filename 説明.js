@@ -20,7 +20,7 @@ document.getElementById("js-button1").onclick = function()
     }
     else if(pass === "sin")
     {
-        alert('シルバー雑魚すぎた裏闘技場'9
+        alert('シルバー雑魚すぎた裏闘技場')
     }
     else
     {
